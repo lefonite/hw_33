@@ -1,0 +1,32 @@
+{
+  "name": "hw_33",
+  "version": "1.0.0",
+  "description": "super application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lefonite/hw_33.git"
+  },
+  "keywords": [
+    "super",
+    "application"
+  ],
+  "author": "Le Fonite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lefonite/hw_33/issues"
+  },
+  "homepage": "https://github.com/lefonite/hw_33#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "prettier": "^3.2.5"
+  }
+}
